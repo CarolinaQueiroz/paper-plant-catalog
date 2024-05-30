@@ -13,9 +13,23 @@ Atividades desenvolvidas:
 
 Resultados:
 
-- O artigo foi publicado em 30/06/2023 na Revista Brasileira em Tecnologia da Informação [(RBTI)](https://www.fateccampinas.com.br/rbti/index.php/fatec/article/view/101)
+- O artigo foi publicado em 30/06/2023 na Revista Brasileira em Tecnologia da Informação [(RBTI)](https://www.fateccampinas.com.br/rbti/index.php/fatec/article/view/101).
 
 - O catálogo está disponível para consulta online ([Visite o web site](https://cqueirozabs.wixsite.com/catalogo-plantas)).
+
+## Objetivos de Desenvolvimento Sustentável (ODS) da ONU
+
+Este projeto constituiu uma das primeiras práticas de sustentabilidade desenvolvidas e concluídas na FATEC Franco da Rocha, e ajudou a atender (direta ou indiretamente) a alguns objetivos específicos das seguintes metas dos ODS: 
+
+- **3** (bem-estar)
+- **4** (educação de qualidade)
+- **9** (instituições resilientes e incentivo à pesquisa)
+- **11** (comunidades sustentáveis)
+- **12** (incentivo ao consumo consciente)
+- **13** (combate às alterações climáticas)
+- **15** (proteção dos ecossistemas terrestres)
+- **16** (instituições fortes)
+- **17** (parcerias multissetoriais).
 
 ## Materiais
 
